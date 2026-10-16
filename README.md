@@ -1,6 +1,6 @@
 # Awesome-Secrets-Management
 
-# Top Secrets Management Tools Ecosystem
+## Top Secrets Management Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Dynamic Secrets, Privileged Access & Developer-First Secret Sync*  
