@@ -83,11 +83,11 @@ The table below catalogs leading commercial and hosted secrets management and pr
 
 ## 💻 Top Open-Source GitHub Projects
 
-Below is an extensive collection of active open-source secrets management projects, encryption toolkits, credential proxies, and Kubernetes operators. The list is **sorted descending by GitHub star count**.
+Below is an extensive collection of active open-source secrets management projects, encryption toolkits, credential proxies, and Kubernetes operators. The list is **sorted descending by GitHub Stars_Count**.
 
 ---
 
-### 1. [Infisical](https://github.com/Infisical/infisical) [![GitHub stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers)
+### 1. [Infisical](https://github.com/Infisical/infisical) [![GitHub_Stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers)
 - **License**: MIT Core / Elastic License 2.0 (EE)
 - **Primary Stack**: Node.js, TypeScript, PostgreSQL, Redis, Go CLI
 - **Overview**: The developer-first, all-in-one platform for secrets orchestration, certificate lifecycle automation (X.509/PKI), cryptographic key management, and AI agent credential sandboxing.
@@ -96,7 +96,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 2. [SOPS (Secrets OPerationS)](https://github.com/getsops/sops) [![GitHub stars](https://img.shields.io/github/stars/getsops/sops?style=social&color=white)](https://github.com/getsops/sops/stargazers)
+### 2. [SOPS (Secrets OPerationS)](https://github.com/getsops/sops) [![GitHub_Stars](https://img.shields.io/github/stars/getsops/sops?style=social&color=white)](https://github.com/getsops/sops/stargazers)
 - **License**: MPL-2.0 (CNCF Graduated Project)
 - **Primary Stack**: Go
 - **Overview**: Editor and transformer for encrypted files supporting YAML, JSON, ENV, INI, and binary formats, designed specifically for version control and GitOps.
@@ -105,7 +105,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 3. [Teleport](https://github.com/gravitational/teleport) [![GitHub stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers)
+### 3. [Teleport](https://github.com/gravitational/teleport) [![GitHub_Stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers)
 - **License**: AGPL-3.0 / Commercial
 - **Primary Stack**: Go, TypeScript
 - **Overview**: Identity-aware access plane for SSH, Kubernetes clusters, databases, web applications, and Windows desktops that eliminates static credentials.
@@ -114,7 +114,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 4. [Bitwarden Unified Server](https://github.com/bitwarden/server) [![GitHub stars](https://img.shields.io/github/stars/bitwarden/server?style=social&color=white)](https://github.com/bitwarden/server/stargazers)
+### 4. [Bitwarden Unified Server](https://github.com/bitwarden/server) [![GitHub_Stars](https://img.shields.io/github/stars/bitwarden/server?style=social&color=white)](https://github.com/bitwarden/server/stargazers)
 - **License**: AGPL-3.0
 - **Primary Stack**: C#, .NET, TypeScript
 - **Overview**: The core backend infrastructure powering Bitwarden's zero-knowledge password management and DevOps Secrets Manager.
@@ -123,7 +123,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 5. [Sealed Secrets for Kubernetes](https://github.com/bitnami-labs/sealed-secrets) [![GitHub stars](https://img.shields.io/github/stars/bitnami-labs/sealed-secrets?style=social&color=white)](https://github.com/bitnami-labs/sealed-secrets/stargazers)
+### 5. [Sealed Secrets for Kubernetes](https://github.com/bitnami-labs/sealed-secrets) [![GitHub_Stars](https://img.shields.io/github/stars/bitnami-labs/sealed-secrets?style=social&color=white)](https://github.com/bitnami-labs/sealed-secrets/stargazers)
 - **License**: Apache-2.0
 - **Primary Stack**: Go
 - **Overview**: Asymmetric "one-way" encrypted Kubernetes secrets that can be safely committed into public or private Git repositories.
@@ -132,7 +132,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 6. [aws-vault](https://github.com/99designs/aws-vault) [![GitHub stars](https://img.shields.io/github/stars/99designs/aws-vault?style=social&color=white)](https://github.com/99designs/aws-vault/stargazers)
+### 6. [aws-vault](https://github.com/99designs/aws-vault) [![GitHub_Stars](https://img.shields.io/github/stars/99designs/aws-vault?style=social&color=white)](https://github.com/99designs/aws-vault/stargazers)
 - **License**: MIT
 - **Primary Stack**: Go
 - **Overview**: CLI tool for securely storing and accessing AWS credentials in local development environments.
@@ -141,7 +141,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 7. [OpenBao](https://github.com/openbao/openbao) [![GitHub stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers)
+### 7. [OpenBao](https://github.com/openbao/openbao) [![GitHub_Stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers)
 - **License**: MPL-2.0 (Under Linux Foundation & OpenSSF Governance)
 - **Primary Stack**: Go
 - **Overview**: The community-governed, license-clean continuation of HashiCorp Vault branched from its final MPL-2.0 release.
@@ -150,7 +150,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 8. [External Secrets Operator (ESO)](https://github.com/external-secrets/external-secrets) [![GitHub stars](https://img.shields.io/github/stars/external-secrets/external-secrets?style=social&color=white)](https://github.com/external-secrets/external-secrets/stargazers)
+### 8. [External Secrets Operator (ESO)](https://github.com/external-secrets/external-secrets) [![GitHub_Stars](https://img.shields.io/github/stars/external-secrets/external-secrets?style=social&color=white)](https://github.com/external-secrets/external-secrets/stargazers)
 - **License**: Apache-2.0 (CNCF Sandbox Project)
 - **Primary Stack**: Go
 - **Overview**: Universal Kubernetes operator that synchronizes secrets from external APIs directly into native Kubernetes `v1/Secret` resources.
@@ -159,7 +159,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 9. [HashiCorp Boundary](https://github.com/hashicorp/boundary) [![GitHub stars](https://img.shields.io/github/stars/hashicorp/boundary?style=social&color=white)](https://github.com/hashicorp/boundary/stargazers)
+### 9. [HashiCorp Boundary](https://github.com/hashicorp/boundary) [![GitHub_Stars](https://img.shields.io/github/stars/hashicorp/boundary?style=social&color=white)](https://github.com/hashicorp/boundary/stargazers)
 - **License**: BUSL-1.1
 - **Primary Stack**: Go, TypeScript
 - **Overview**: Identity-based privileged session broker delivering secure, just-in-time access to hosts, databases, and private services without exposing underlying network subnets.
@@ -168,7 +168,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 10. [Teller](https://github.com/tellerops/teller) [![GitHub stars](https://img.shields.io/github/stars/tellerops/teller?style=social&color=white)](https://github.com/tellerops/teller/stargazers)
+### 10. [Teller](https://github.com/tellerops/teller) [![GitHub_Stars](https://img.shields.io/github/stars/tellerops/teller?style=social&color=white)](https://github.com/tellerops/teller/stargazers)
 - **License**: Apache-2.0
 - **Primary Stack**: Go
 - **Overview**: Cloud-native secrets management tool designed for developer terminal productivity.
@@ -177,7 +177,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 11. [Chamber](https://github.com/segmentio/chamber) [![GitHub stars](https://img.shields.io/github/stars/segmentio/chamber?style=social&color=white)](https://github.com/segmentio/chamber/stargazers)
+### 11. [Chamber](https://github.com/segmentio/chamber) [![GitHub_Stars](https://img.shields.io/github/stars/segmentio/chamber?style=social&color=white)](https://github.com/segmentio/chamber/stargazers)
 - **License**: MIT
 - **Primary Stack**: Go
 - **Overview**: Practical CLI for managing secrets backed by AWS Systems Manager (SSM) Parameter Store and AWS KMS.
@@ -186,7 +186,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 12. [Kubernetes External Secrets (Legacy)](https://github.com/external-secrets/kubernetes-external-secrets) [![GitHub stars](https://img.shields.io/github/stars/external-secrets/kubernetes-external-secrets?style=social&color=white)](https://github.com/external-secrets/kubernetes-external-secrets/stargazers)
+### 12. [Kubernetes External Secrets (Legacy)](https://github.com/external-secrets/kubernetes-external-secrets) [![GitHub_Stars](https://img.shields.io/github/stars/external-secrets/kubernetes-external-secrets?style=social&color=white)](https://github.com/external-secrets/kubernetes-external-secrets/stargazers)
 - **License**: Apache-2.0 (Archived)
 - **Primary Stack**: Node.js, JavaScript
 - **Overview**: The original Node-based Kubernetes operator for syncing external secrets.
@@ -194,7 +194,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 13. [Secrets Store CSI Driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) [![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/secrets-store-csi-driver?style=social&color=white)](https://github.com/kubernetes-sigs/secrets-store-csi-driver/stargazers)
+### 13. [Secrets Store CSI Driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) [![GitHub_Stars](https://img.shields.io/github/stars/kubernetes-sigs/secrets-store-csi-driver?style=social&color=white)](https://github.com/kubernetes-sigs/secrets-store-csi-driver/stargazers)
 - **License**: Apache-2.0 (Kubernetes SIGs Project)
 - **Primary Stack**: Go
 - **Overview**: Kubernetes CSI volume driver that mounts secrets, keys, and certificates from external enterprise vaults into pods as file volumes.
@@ -203,7 +203,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 14. [Pinterest Knox](https://github.com/pinterest/knox) [![GitHub stars](https://img.shields.io/github/stars/pinterest/knox?style=social&color=white)](https://github.com/pinterest/knox/stargazers)
+### 14. [Pinterest Knox](https://github.com/pinterest/knox) [![GitHub_Stars](https://img.shields.io/github/stars/pinterest/knox?style=social&color=white)](https://github.com/pinterest/knox/stargazers)
 - **License**: Apache-2.0
 - **Primary Stack**: Go
 - **Overview**: High-throughput service developed by Pinterest for storing, rotating, and distributing cryptographic keys and machine secrets.
@@ -212,7 +212,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 15. [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) [![GitHub stars](https://img.shields.io/github/stars/argoproj-labs/argocd-vault-plugin?style=social&color=white)](https://github.com/argoproj-labs/argocd-vault-plugin/stargazers)
+### 15. [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) [![GitHub_Stars](https://img.shields.io/github/stars/argoproj-labs/argocd-vault-plugin?style=social&color=white)](https://github.com/argoproj-labs/argocd-vault-plugin/stargazers)
 - **License**: Apache-2.0 (Argo Project Labs)
 - **Primary Stack**: Go
 - **Overview**: Plugin for Argo CD that intercepts declarative Kubernetes manifests and substitutes placeholder secret references with real values from secret backends.
@@ -221,7 +221,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 16. [CyberArk Conjur Open Source](https://github.com/cyberark/conjur) [![GitHub stars](https://img.shields.io/github/stars/cyberark/conjur?style=social&color=white)](https://github.com/cyberark/conjur/stargazers)
+### 16. [CyberArk Conjur Open Source](https://github.com/cyberark/conjur) [![GitHub_Stars](https://img.shields.io/github/stars/cyberark/conjur?style=social&color=white)](https://github.com/cyberark/conjur/stargazers)
 - **License**: Apache-2.0
 - **Primary Stack**: Ruby, Go
 - **Overview**: Security platform providing machine identity, automated secret rotation, and role-based policy enforcement across CI/CD pipelines and microservices.
@@ -230,7 +230,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 17. [Phase Console](https://github.com/phasehq/console) [![GitHub stars](https://img.shields.io/github/stars/phasehq/console?style=social&color=white)](https://github.com/phasehq/console/stargazers)
+### 17. [Phase Console](https://github.com/phasehq/console) [![GitHub_Stars](https://img.shields.io/github/stars/phasehq/console?style=social&color=white)](https://github.com/phasehq/console/stargazers)
 - **License**: AGPL-3.0
 - **Primary Stack**: Python, TypeScript, Docker
 - **Overview**: Modern, end-to-end encrypted secrets engine designed for software engineering teams and autonomous AI agent workflows.
@@ -239,7 +239,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 18. [EnvKey](https://github.com/envkey/envkey) [![GitHub stars](https://img.shields.io/github/stars/envkey/envkey?style=social&color=white)](https://github.com/envkey/envkey/stargazers)
+### 18. [EnvKey](https://github.com/envkey/envkey) [![GitHub_Stars](https://img.shields.io/github/stars/envkey/envkey?style=social&color=white)](https://github.com/envkey/envkey/stargazers)
 - **License**: MIT
 - **Primary Stack**: Go, TypeScript
 - **Overview**: End-to-end encrypted configuration and secrets management tool tailored for cross-team collaboration.
@@ -248,7 +248,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 19. [Kubesec](https://github.com/shyiko/kubesec) [![GitHub stars](https://img.shields.io/github/stars/shyiko/kubesec?style=social&color=white)](https://github.com/shyiko/kubesec/stargazers)
+### 19. [Kubesec](https://github.com/shyiko/kubesec) [![GitHub_Stars](https://img.shields.io/github/stars/shyiko/kubesec?style=social&color=white)](https://github.com/shyiko/kubesec/stargazers)
 - **License**: Apache-2.0
 - **Primary Stack**: Go
 - **Overview**: Secure secret management CLI for Kubernetes with native support for GPG, Google Cloud KMS, and AWS KMS encryption backends.
@@ -257,7 +257,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 20. [HashiCorp Vault Secrets Operator](https://github.com/hashicorp/vault-secrets-operator) [![GitHub stars](https://img.shields.io/github/stars/hashicorp/vault-secrets-operator?style=social&color=white)](https://github.com/hashicorp/vault-secrets-operator/stargazers)
+### 20. [HashiCorp Vault Secrets Operator](https://github.com/hashicorp/vault-secrets-operator) [![GitHub_Stars](https://img.shields.io/github/stars/hashicorp/vault-secrets-operator?style=social&color=white)](https://github.com/hashicorp/vault-secrets-operator/stargazers)
 - **License**: MPL-2.0
 - **Primary Stack**: Go
 - **Overview**: The official Kubernetes operator from HashiCorp for synchronizing secrets from Vault directly into Kubernetes native secrets.
@@ -266,7 +266,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 21. [Tailscale Setec](https://github.com/tailscale/setec) [![GitHub stars](https://img.shields.io/github/stars/tailscale/setec?style=social&color=white)](https://github.com/tailscale/setec/stargazers)
+### 21. [Tailscale Setec](https://github.com/tailscale/setec) [![GitHub_Stars](https://img.shields.io/github/stars/tailscale/setec?style=social&color=white)](https://github.com/tailscale/setec/stargazers)
 - **License**: BSD-3-Clause
 - **Primary Stack**: Go
 - **Overview**: Lightweight secrets management service that uses Tailscale tailnet identities and node attributes for mutual authentication and access control.
@@ -275,7 +275,7 @@ Below is an extensive collection of active open-source secrets management projec
 
 ---
 
-### 22. [Bitwarden Secrets Manager SDK](https://github.com/bitwarden/sdk) [![GitHub stars](https://img.shields.io/github/stars/bitwarden/sdk?style=social&color=white)](https://github.com/bitwarden/sdk/stargazers)
+### 22. [Bitwarden Secrets Manager SDK](https://github.com/bitwarden/sdk) [![GitHub_Stars](https://img.shields.io/github/stars/bitwarden/sdk?style=social&color=white)](https://github.com/bitwarden/sdk/stargazers)
 - **License**: GPL-3.0 / Commercial
 - **Primary Stack**: Rust, Python, Node.js, Go
 - **Overview**: Multi-language client software development kits and CLI for programmatically interacting with Bitwarden Secrets Manager.
@@ -337,7 +337,7 @@ We welcome additions, corrections, and improvements from the security and platfo
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-tool`.
-3. 📝 **Edit `README.md`**: Follow the established formatting conventions (include name, license, star badge, company size, and specific pricing/free tier data).
+3. 📝 **Edit `README.md`**: Follow the established formatting conventions (include name, license, Stars_Badge, company size, and specific pricing/free tier data).
 4. ✅ **Ensure accuracy**: Verify pricing, links, and GitHub repository metrics.
 5. 🚀 **Submit a Pull Request**: Provide a concise explanation of the added or modified entry.
 
